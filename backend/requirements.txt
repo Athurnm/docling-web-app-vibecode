@@ -1,0 +1,8 @@
+fastapi
+python-multipart
+uvicorn
+docling
+pandas
+huggingface_hub[hf_xet]
+sqlalchemy
+aiosqlite

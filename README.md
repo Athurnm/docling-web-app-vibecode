@@ -72,6 +72,10 @@ npm run dev
 
 The frontend will typically run on `http://localhost:5173`.
 
+### 3. Quick Start (Windows)
+
+Simply double-click the `start_app.bat` file in the root directory. It will launch both the backend and frontend in separate terminal windows.
+
 ## Usage
 
 1. Open the web application.
